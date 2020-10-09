@@ -3,7 +3,7 @@ layout: post
 title: A thousand splendid suns
 subtitle: By Khaled Hosseini
 cover-img: /assets/img/ATSS.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/coverATSS.jpg
 share-img: /assets/img/ATSS.jpg
 tags: [books, review, Khaled Hosseini]
 ---
