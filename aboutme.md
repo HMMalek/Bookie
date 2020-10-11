@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Suggest a book
-subtitle: 
+subtitle: Suggestion 
 ---
 
 Send me a book title you think worth reading.
