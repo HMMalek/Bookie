@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: minimal
 title: The hating game
 subtitle: By Sally Thorne
 cover-img: /assets/img/THG.jpg
