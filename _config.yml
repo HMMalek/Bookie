@@ -14,7 +14,7 @@ author: HMMalek
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Upcoming Books: "nextbooks"
+  Upcoming Reviews: "nextbooks"
   Suggest book: "aboutme"
   Author's home: "https://hmmalek.github.io"
 
