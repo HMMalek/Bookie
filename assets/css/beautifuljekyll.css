@@ -489,7 +489,7 @@ footer .footer-custom-content {
   float: right;
   margin-left: 0.625rem;
   height: 12rem;
-  width: 12rem;
+  width: 10rem;
 }
 .post-preview .post-image {
   filter: grayscale(40%);
