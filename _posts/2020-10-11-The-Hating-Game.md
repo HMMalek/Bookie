@@ -15,3 +15,5 @@ It took me 3 days to finish it (note: I was really busy) but I think it could be
 the pickering of these two love birds gives you butterflies in the stomach and the extent they go to in order to prove their love is amazing.
 I love this light-lovely book!!
 I give 4 stars out of five.
+
+★★★★☆
