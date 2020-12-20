@@ -2,8 +2,8 @@
 layout: post
 title: But you did not come back
 subtitle: By Marceline Loridan-Ivens
-cover-img: /assets/img/BYDNCB.jpg
-thumbnail-img: /assets/img/BYDNCBcover.jpg
+cover-img: /assets/img/BYDNCBcover.jpg
+thumbnail-img: /assets/img/BYDNCB.jpg
 share-img: /assets/img/ATSS.jpg
 tags: [books, review, biography, Marceline Loridan-Ivens, WW2, Holocaust]
 ---
